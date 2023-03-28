@@ -1,0 +1,1 @@
+insert into tutorial(id, title, description, published) values(1, 'a', 'b', true);
